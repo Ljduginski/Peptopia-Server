@@ -1,0 +1,42 @@
+{
+  "mobLimiter": [
+    {
+      "limit": 500,
+      "enabled": false
+    }
+  ],
+  "options": [
+    {
+      "killAllMonsters": false,
+      "killAllDrops": false,
+      "listItemEntitys": [
+        "minecraft:redstone",
+        "minecraft:diamond"
+      ],
+      "killAnimalGroups": false,
+      "listEntitys": [
+        "minecraft:zombie",
+        "minecraft:witch",
+        "minecraft:skeleton",
+        "minecraft:creeper",
+        "minecraft:arrow"
+      ],
+      "listTileEntitys": [
+        "PlaceHolder"
+      ]
+    }
+  ],
+  "warning": [
+    {
+      "message": "[ClearMob] Clearing Entities in 1 minute",
+      "enabled": false
+    }
+  ],
+  "passive": [
+    {
+      "interval": 60,
+      "message": "[ClearMob] Entities have been cleared",
+      "enabled": false
+    }
+  ]
+}
