@@ -1,2 +1,0 @@
-dependencies.bammerbom.ultimatecore.org.bstats.Metrics
-Note: This class only exists for internal purpose. You can ignore it :)

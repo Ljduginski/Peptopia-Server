@@ -1,9 +1,8 @@
-7938 nodes in total
+7935 nodes in total
 
 block.tap: ALL
 block.wrench: ALL
 command.achievement: CMD
-command.angry: CMD
 command.ban-ip: CMD
 command.ban: CMD
 command.banlist: CMD
@@ -18,9 +17,7 @@ command.defaultgamemode: CMD
 command.deop: CMD
 command.difficulty: CMD
 command.dimensiontp: CMD
-command.ds: CMD
 command.dump: CMD
-command.dumphandlers: CMD
 command.effect: CMD
 command.emote: CMD
 command.enchant: CMD
@@ -33,10 +30,6 @@ command.ftb.admin_home.remove: CMD
 command.ftb.admin_home.tp: CMD
 command.ftb.admin_home: CMD
 command.ftb.back: CMD
-command.ftb.backup.getsize: CMD
-command.ftb.backup.start: CMD
-command.ftb.backup.stop: CMD
-command.ftb.backup: CMD
 command.ftb.chunks.claim: CMD
 command.ftb.chunks.claim_for: CMD
 command.ftb.chunks.gui: CMD
@@ -112,19 +105,16 @@ command.help: CMD
 command.ie: CMD
 command.ip: CMD
 command.joinrace: CMD
-command.jtp: CMD
 command.k4lib: CMD
 command.kick: CMD
 command.kill: CMD
 command.list: CMD
 command.locate: CMD
-command.love: CMD
 command.lt-export: CMD
 command.lt-import: CMD
 command.me: CMD
 command.minetweaker: CMD
 command.morpheus: CMD
-command.mpm: CMD
 command.nemesis_system: CMD
 command.noppes: CMD
 command.op: CMD
@@ -146,12 +136,10 @@ command.scoreboard: CMD
 command.seed: CMD
 command.setblock: CMD
 command.setidletimeout: CMD
-command.setloginmessage: CMD
 command.setsignpostsleft: CMD
 command.setwaystonesleft: CMD
 command.setworldspawn: CMD
 command.signpostconfirm: CMD
-command.sing: CMD
 command.spawnpoint: CMD
 command.spreadplayers: CMD
 command.ssinvite: CMD
@@ -1164,7 +1152,6 @@ ftbu.claims.block.edit.libvulpes.motor: OP
 ftbu.claims.block.edit.libvulpes.ore0: OP
 ftbu.claims.block.edit.libvulpes.placeholder: OP
 ftbu.claims.block.edit.libvulpes.structuremachine: OP
-ftbu.claims.block.edit.minecoprocessors.minecoprocessor: OP
 ftbu.claims.block.edit.minecraft.acacia_door: OP
 ftbu.claims.block.edit.minecraft.acacia_fence: OP
 ftbu.claims.block.edit.minecraft.acacia_fence_gate: OP
@@ -3142,7 +3129,6 @@ ftbu.claims.block.interact.libvulpes.motor: OP
 ftbu.claims.block.interact.libvulpes.ore0: OP
 ftbu.claims.block.interact.libvulpes.placeholder: OP
 ftbu.claims.block.interact.libvulpes.structuremachine: OP
-ftbu.claims.block.interact.minecoprocessors.minecoprocessor: OP
 ftbu.claims.block.interact.minecraft.acacia_door: ALL
 ftbu.claims.block.interact.minecraft.acacia_fence: OP
 ftbu.claims.block.interact.minecraft.acacia_fence_gate: OP
@@ -6470,7 +6456,6 @@ ftbu.claims.item.libvulpes.productplate: ALL
 ftbu.claims.item.libvulpes.productrod: ALL
 ftbu.claims.item.libvulpes.productsheet: ALL
 ftbu.claims.item.libvulpes.structuremachine: ALL
-ftbu.claims.item.minecoprocessors.minecoprocessor: ALL
 ftbu.claims.item.minecraft.acacia_boat: ALL
 ftbu.claims.item.minecraft.acacia_door: ALL
 ftbu.claims.item.minecraft.acacia_fence: ALL
